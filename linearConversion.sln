@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linearConversion", "linearConversion\linearConversion.csproj", "{5D12E4E0-DEDB-4E07-A09F-2ABC75A1908D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D12E4E0-DEDB-4E07-A09F-2ABC75A1908D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D12E4E0-DEDB-4E07-A09F-2ABC75A1908D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D12E4E0-DEDB-4E07-A09F-2ABC75A1908D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D12E4E0-DEDB-4E07-A09F-2ABC75A1908D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D7646B0-C7FE-4C89-BA6A-482329B77F80}
+	EndGlobalSection
+EndGlobal
